@@ -1,2 +1,12 @@
-# fin-cyber-osint-quantum-ton-pipeline
-## Description  Integrated pipeline for financial intelligence, cybersecurity, and OSINT that combines market data analysis, network reconnaissance, phone intelligence, blockchain analytics (TON), and quantum-safe encryption to simulate modern risk intelligence workflows.
+
+
+
+
+# Integrated Financial Intelligence, Cybersecurity & OSINT Pipeline 
+
+
+**Author:** [Fabiana Campanari](https://github.com/FabianaCampanari)
+**Institution:** PUC-SP (Pontifícia Universidade Católica de São Paulo) 
+**Course:** Cybersecurity and Social Engineering 
+**Date:** March 2026 
+**Version:** 1.0.0
