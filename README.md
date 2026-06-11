@@ -1,31 +1,3 @@
-
-##### \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇬🇧 English](README.md)**\]   
-
-<br>
-
-
-<br>
-
-
-#  
-
-<br>
-
-**Author:** [Fabiana Campanari](https://github.com/FabianaCampanari)  <br>
-**Academic Advisor:** [✨ Professor Eduardo Savino Gomes]()  <br>
-**Institution:** PUC-SP (Pontifícia Universidade Católica de São Paulo) <br>
-**Course:** Cybersecurity and Social Engineering <br>
-
-<br>
-///
-
-
-
-
-
-<!-- ======================================= ⚡️ Start DEFAULT HEADER ===========================================  -->
-
-
 <!-- ========= START LANGUAGE BUTTON ========= -->
 <br>
 
@@ -34,11 +6,8 @@
 <br><br>
 <!-- ========= END LANGUAGE BUTTON ========= -->
 
-# 
-
-
 <!-- ========= START REPO TITLE ========= -->
-#  <p align="center"> 3 - 🔐 [Cybersecurity, Social Engineering and AI Security ]() / [Project Integrated Financial Intelligence, Cybersecurity & OSINT Pipeline with Quantum-Safe Encryption and Blockchain Integration]()
+#  <p align="center"> 3 - 🔐 [Cybersecurity, Social Engineering and AI Security ]() - [Project Integrated Financial Intelligence, Cybersecurity & OSINT Pipeline with Quantum-Safe Encryption and Blockchain Integration]()
 
 <br><br>
 <!-- ========= START REPO TITLE ========= -->
